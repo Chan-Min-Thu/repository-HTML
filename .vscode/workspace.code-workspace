@@ -1,0 +1,15 @@
+{
+                "folders": [
+					{
+						"name": "youtubeStudio",
+						"path": "..\\Msquare programming\\Myexercise\\youtubeStudio"
+					},
+					{
+						"name": "messenger",
+						"path": "..\\Msquare programming\\Myexercise\\messenger"
+					}
+				],
+                "settings": {
+                                "liveServer.settings.multiRootWorkspaceName": "youtubeStudio"
+                }
+}
